@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensordemo</string>
+    <string name="accel_format">X: %1$.2f\nY: %2$.2f\nZ: %3$.2f</string>
+    <string name="light_format">Light Level: %1$.2f lx</string>
+    <string name="proximity_format">Distance: %1$.2f cm</string>
+    <string name="sensor_not_available">Sensor not available</string>
+    <string name="sensor_dashboard_title">Sensor Dashboard</string>
+    <string name="accelerometer_label">Accelerometer</string>
+    <string name="light_sensor_label">Light Sensor</string>
+    <string name="proximity_sensor_label">Proximity Sensor</string>
+</resources>
