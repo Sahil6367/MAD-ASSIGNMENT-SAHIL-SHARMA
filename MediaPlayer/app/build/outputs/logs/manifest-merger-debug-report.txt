@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\91bf9c389d39bc5e529ff1c6ae3923a5\workspace\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\sahil\.gradle\caches\9.3.1\transforms\e6b3998ca2c1baedabab38ae0586e159\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\sahil\.gradle\caches\9.3.1\transforms\231f1a58326eecfb2cb8f67ea897931a\workspace\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
@@ -46,20 +46,30 @@ MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\sahil\.gradle\caches\9.3.1
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\eef188f9bb9c4d98e4d248c956f7dc2f\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\a019cc35fc7cf821bc92e73ff917414a\workspace\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:5:5-7:38
+	android:maxSdkVersion
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:7:9-35
+	android:name
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:6:9-64
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:8:22-72
 application
-ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:6:5-26:19
-INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:6:5-26:19
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:10:5-25:19
+INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:10:5-25:19
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\91bf9c389d39bc5e529ff1c6ae3923a5\workspace\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\91bf9c389d39bc5e529ff1c6ae3923a5\workspace\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\sahil\.gradle\caches\9.3.1\transforms\e6b3998ca2c1baedabab38ae0586e159\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
@@ -77,47 +87,41 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sahil\.g
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sahil\.gradle\caches\9.3.1\transforms\42f9652262efc4d9f55e9625ad8d9c0f\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sahil\.gradle\caches\9.3.1\transforms\42f9652262efc4d9f55e9625ad8d9c0f\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.18.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\5bcdbd0f35d54f9daabe88cd1b95ee29\workspace\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:11:9-41
-	android:fullBackupContent
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:14:9-49
-	android:dataExtractionRules
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:8:9-65
-	android:usesCleartextTraffic
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:15:9-44
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:16:9-49
 activity#com.example.mediaplayer.MainActivity
-ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:17:9-24:20
 	android:exported
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:19:13-36
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:18:13-41
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\91bf9c389d39bc5e529ff1c6ae3923a5\workspace\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\91bf9c389d39bc5e529ff1c6ae3923a5\workspace\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\sahil\.gradle\caches\9.3.1\transforms\e6b3998ca2c1baedabab38ae0586e159\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
@@ -201,9 +205,9 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sahil\.gradle\cache
 MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\a019cc35fc7cf821bc92e73ff917414a\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\a019cc35fc7cf821bc92e73ff917414a\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\sahil\AndroidStudioProjects\Mediaplayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sahil\AndroidStudioProjects\MediaPlayer3\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sahil\.gradle\caches\9.3.1\transforms\79543744a47c3c2a71842158d4749361\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\sahil\.gradle\caches\9.3.1\transforms\dfded51402412ba4f3bd8136b13cf829\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20

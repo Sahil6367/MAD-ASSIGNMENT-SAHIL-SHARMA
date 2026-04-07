@@ -1,47 +1,103 @@
 [
     {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_stop.xml"
     },
     {
         "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_more_vert.xml"
     },
     {
-        "merged": "com.example.mediaplayer.app-debug-35:/drawable_header_background.xml.flat",
-        "source": "com.example.mediaplayer.app-main-37:/drawable/header_background.xml"
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_close.xml"
     },
     {
         "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_control_button_orange.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_control_button_orange.xml"
     },
     {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_control_button_red.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_control_button_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_fast_rewind.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_fast_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_replay.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_replay.xml"
+    },
+    {
+        "merged": "com.example.mediaplayer.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.mediaplayer.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_orange_dot.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_orange_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_control_button_blue.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_control_button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_music_circle.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_music_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_grey_dot.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_grey_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -52,35 +108,55 @@
         "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_control_button_green.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_control_button_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_fast_forward.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_fast_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_controls_group.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_controls_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_eq_bar.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_eq_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_red_dot.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_red_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_green_dot.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_green_dot.xml"
+    },
+    {
         "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_status_dot.xml.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_status_dot.xml"
-    },
-    {
-        "merged": "com.example.mediaplayer.app-debug-35:/layout_activity_main.xml.flat",
-        "source": "com.example.mediaplayer.app-main-37:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.example.mediaplayer.app-debug-35:/drawable_card_background.xml.flat",
-        "source": "com.example.mediaplayer.app-main-37:/drawable/card_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_url_input.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_url_input.xml"
     },
     {
         "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_bg_media_container.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\bg_media_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_music_note.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_music_note.xml"
     },
     {
         "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-debug-35:\\drawable_ic_play_arrow.xml.flat",
+        "source": "C:\\Users\\sahil\\.gradle\\daemon\\9.3.1\\com.example.mediaplayer.app-main-37:\\drawable\\ic_play_arrow.xml"
     }
 ]
