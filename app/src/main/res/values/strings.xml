@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Photo Gallery App</string>
+    <string name="photo_gallery">Photo Gallery</string>
+    <string name="subtitle">Take photos or browse a folder</string>
+    <string name="btn_take_photo">TAKE PHOTO</string>
+    <string name="btn_choose_folder">CHOOSE FOLDER</string>
+    <string name="footer_text">Photos are saved to:\n/Pictures/ in app storage</string>
+    <string name="gallery">Gallery</string>
+    <string name="pictures">Pictures</string>
+    <string name="image_count">%1$d images</string>
+    <string name="image_details">Image Details</string>
+    <string name="label_name">Name</string>
+    <string name="label_path">Path</string>
+    <string name="label_size">Size</string>
+    <string name="label_date_taken">Date taken</string>
+    <string name="btn_delete_image">DELETE IMAGE</string>
+</resources>

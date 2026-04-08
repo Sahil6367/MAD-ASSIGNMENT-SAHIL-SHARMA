@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_background"
+    tools:context=".ImageDetailsActivity">
+
+    <View
+        android:id="@+id/topBar"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:background="@color/blue_primary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/btnBack"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:contentDescription="Back"
+        android:padding="12dp"
+        android:src="@drawable/ic_arrow_back"
+        app:layout_constraintBottom_toBottomOf="@id/topBar"
+        app:layout_constraintStart_toStartOf="@id/topBar"
+        app:layout_constraintTop_toTopOf="@id/topBar" />
+
+    <TextView
+        android:id="@+id/toolbarTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/image_details"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@id/topBar"
+        app:layout_constraintStart_toEndOf="@id/btnBack"
+        app:layout_constraintTop_toTopOf="@id/topBar" />
+
+    <ImageView
+        android:id="@+id/ivDetailImage"
+        android:layout_width="0dp"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:src="@color/text_secondary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/topBar" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/detailsCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="4dp"
+        app:layout_constraintTop_toBottomOf="@id/ivDetailImage">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/label_name"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/tvImageName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:text="beautiful-nature-images-real-download-pictures-hd-268612595.jpg"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="12dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/label_path"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/tvImagePath"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:text="/storage/emulated/0/Pictures/beautiful-nature-images-real-download-pictures-hd-268612595.jpg"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="12dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/label_size"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/tvImageSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:text="75.69 KB"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="12dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/label_date_taken"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/tvImageDate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:text="17 Nov 2025, 06:40 pm"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_margin="16dp"
+        android:text="@string/btn_delete_image"
+        android:textColor="@color/delete_text_color"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="@color/delete_button_bg"
+        app:cornerRadius="16dp"
+        app:icon="@drawable/ic_delete"
+        app:iconGravity="textStart"
+        app:iconPadding="12dp"
+        app:iconTint="@color/delete_text_color"
+        app:layout_constraintTop_toBottomOf="@id/detailsCard" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
