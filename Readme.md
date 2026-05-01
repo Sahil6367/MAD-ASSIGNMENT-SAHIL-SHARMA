@@ -17,64 +17,64 @@ Each module is designed as an independent app with focused functionality — sim
  🎯 Focus on real-world use cases
  🎨 Clean and intuitive UI/UX
  ⚡ Performance-conscious implementations
-* 🔐 Proper permission handling
-* 🌙 Modern features like Dark Mode
+ 🔐 Proper permission handling
+ 🌙 Modern features like Dark Mode
 
 ---
 
-## 📦 Applications Included
+ 📦 Applications Included
 
-### 💱 Currency Converter
+1. 💱 Currency Converter
 
 A lightweight and user-friendly currency conversion app.
 
-**Key Features:**
+Key Features:
 
-* Convert between INR, USD, JPY, EUR
-* Real-time conversion logic
-* 🌗 Light/Dark theme toggle
-* Minimal and clean UI inspired by Google design
+ Convert between INR, USD, JPY, EUR
+ Real-time conversion logic
+ 🌗 Light/Dark theme toggle
+ Minimal and clean UI inspired by Google design
 
 ---
 
-### 🎵 Media Player App
+ 🎵 Media Player App
 
 A flexible media handling application for both local and online content.
 
-**Key Features:**
+Key Features:
 
-* 🎧 Play audio from device storage
-* 📡 Stream video via URL
-* Full playback controls (Play, Pause, Stop, Restart)
-* File picker + URL input support
+🎧 Play audio from device storage
+ 📡 Stream video via URL
+ Full playback controls (Play, Pause, Stop, Restart)
+File picker + URL input support
 
 ---
 
-### 📡 Sensor Data App
+ 📡 Sensor Data App
 
 A hardware-focused app that interacts with device sensors.
 
-**Key Features:**
+Key Features:
 
-* Real-time Accelerometer data
-* Light sensor readings
-* Proximity detection
-* Efficient sensor lifecycle management
+ Real-time Accelerometer data
+ Light sensor readings
+ Proximity detection
+ Efficient sensor lifecycle management
 
 ---
 
-### 📷 Photo Gallery App
+ 📷 Photo Gallery App
 
 A complete image management system built from scratch.
 
-**Key Features:**
+Key Features:
 
-* 📸 Capture photos using device camera
-* 📁 Save to user-selected folders
-* 🗂 Display images in grid layout (Gallery UI)
-* 🔍 Detailed image view (name, size, date)
-* 🗑 Delete images with confirmation dialog
-* 🔄 Smooth navigation back to gallery
+ 📸 Capture photos using device camera
+ 📁 Save to user-selected folders
+ 🗂 Display images in grid layout (Gallery UI)
+ 🔍 Detailed image view (name, size, date)
+  🗑 Delete images with confirmation dialog
+ 🔄 Smooth navigation back to gallery
 
 ---
 
@@ -117,39 +117,35 @@ A complete image management system built from scratch.
 ## ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/MAD-ASSIGNMENT-SAHIL-SHARMA.git
 ```
 
-* Open in Android Studio
-* Sync Gradle
-* Run any module on Emulator / Device
+ Open in Android Studio
+ Sync Gradle
+ Run any module on Emulator / Device
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here to improve presentation and showcase UI.
-
 ---
 
-## 🎯 What This Project Demonstrates
+ 🎯 What This Project Demonstrates
 
-* Strong understanding of Android fundamentals
-* Ability to work with device hardware (Camera, Sensors)
-* Clean UI/UX implementation
-* Media handling (audio + streaming)
-* File storage and permission management
-* Modular thinking and project organization
+ Strong understanding of Android fundamentals
+ Ability to work with device hardware (Camera, Sensors)
+ Clean UI/UX implementation
+ Media handling (audio + streaming)
+ File storage and permission management
+ Modular thinking and project organization
 
 ---
 
 ## 💡 Future Enhancements
 
-* MVVM Architecture integration
-* API-based real-time currency conversion
-* ExoPlayer for advanced media streaming
-* Cloud storage integration (Firebase)
-* Jetpack Compose UI upgrade
+ MVVM Architecture integration
+ API-based real-time currency conversion
+ ExoPlayer for advanced media streaming
+ Cloud storage integration (Firebase)
+ Jetpack Compose UI upgrade
 
 ---
 
