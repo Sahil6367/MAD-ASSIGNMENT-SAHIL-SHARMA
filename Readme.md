@@ -212,7 +212,7 @@ Click ▶ Run
 
 | Home Screen | Choose Folder | Gallery Grid |
 |:-----------:|:-------------:|:------------:|
-| <img src="PhotoGallery/WhatsApp Image 2026-04-07 at 7.31.14 PM.jpeg" width="200" alt="Gallery Home"/> | <img src="PhotoGallery/WhatsApp Image 2026-04-08 at 7.52.25 PM.jpeg" width="200" alt="Folder Picker"/> | <img src="sPhotoGallery/WhatsApp Image 2026-04-08 at 8.41.21 PM.jpeg" width="200" alt="Gallery Grid"/> |
+| <img src="PhotoGallery/WhatsApp Image 2026-04-07 at 7.31.14 PM.jpeg" width="200" alt="Gallery Home"/> | <img src="PhotoGallery/WhatsApp Image 2026-04-08 at 7.52.25 PM.jpeg" width="200" alt="Folder Picker"/> | <img src="PhotoGallery/WhatsApp Image 2026-04-08 at 8.41.21 PM.jpeg" width="200" alt="Gallery Grid"/> |
 
 | Image Details | | |
 |:-------------:|---|---|
