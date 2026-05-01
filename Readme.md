@@ -235,7 +235,7 @@ GitHub: [@sahilgit227](https://github.com/sahilgit227)
 
 ---
 
-## 📄 License
+## 📄LICENSE
 
 This project is submitted as part of an academic assignment. All code is written for educational purposes.
 
