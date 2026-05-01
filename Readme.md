@@ -183,14 +183,18 @@ Click ▶ Run
 
 ### 💱 Currency Converter
 <div align="center">
-  <img src="screenshots/screenshot_currency.png" width="260" alt="Currency Converter"/>
+  <img src="CurrencyConverter/Screenshot 2026-04-04 204836.png" width="260" alt="Currency Converter"/>
+  <img src="CurrencyConverter/Screenshot 2026-04-04 204846.png" width="260" alt="Currency Converter"/>
+ 
 </div>
 
 ---
 
 ### 🎬 Media Player
 <div align="center">
-  <img src="screenshots/screenshot_media_player.png" width="260" alt="Media Player"/>
+  <img src="MediaPlayer/Screenshot 2026-04-02 041432.png"width="260" alt="Media Player"/>
+ <img src="MediaPlayer/WhatsApp Image 2026-04-07 at 7.07.14 PM.jpeg" width="260" alt="Media Player"/>
+ <img src="MediaPlayer/WhatsApp Image 2026-04-07 at 7.07.15 PM.jpeg" width="260" alt="Media Player"/>
 </div>
 
 ---
@@ -208,11 +212,11 @@ Click ▶ Run
 
 | Home Screen | Choose Folder | Gallery Grid |
 |:-----------:|:-------------:|:------------:|
-| <img src="PhotoGallery/WhatsApp Image 2026-04-07 at 7.31.14 PM (1).jpeg" width="200" alt="Gallery Home"/> | <img src="screenshots/screenshot_gallery_folder.jpeg" width="200" alt="Folder Picker"/> | <img src="screenshots/screenshot_gallery_grid.jpeg" width="200" alt="Gallery Grid"/> |
+| <img src="PhotoGallery/WhatsApp Image 2026-04-07 at 7.31.14 PM.jpeg" width="200" alt="Gallery Home"/> | <img src="PhotoGallery/WhatsApp Image 2026-04-08 at 7.52.25 PM.jpeg" width="200" alt="Folder Picker"/> | <img src="sPhotoGallery/WhatsApp Image 2026-04-08 at 8.41.21 PM.jpeg" width="200" alt="Gallery Grid"/> |
 
 | Image Details | | |
 |:-------------:|---|---|
-| <img src="screenshots/screenshot_gallery_detail.jpeg" width="200" alt="Image Details"/> | | |
+| <img src="PhotoGallery/WhatsApp Image 2026-04-08 at 7.53.47 PM (1).jpeg" width="200" alt="Image Details"/> | | |
 
 </div>
 
