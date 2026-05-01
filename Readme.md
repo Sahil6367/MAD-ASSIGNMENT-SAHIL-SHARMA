@@ -6,10 +6,9 @@
 💱 **Currency Converter** · 📡 **Live Sensor Dashboard**
 🚀 Built with Java · Designed for real Android devices.
 
-
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Personalized-blue?style=flat-square)
-![Learning](https://img.shields.io/badge/Learning-Adaptive-orange?style=flat-square)
+![Projects](https://img.shields.io/badge/Projects-4-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
@@ -46,7 +45,7 @@ A collection of **4 Android applications** built as part of a Mobile Application
 ---
 
 ### 1. 💱 Currency Converter
-> **Q1 — [3 Marks]**
+> 
 
 A clean and functional currency converter app supporting **4 major currencies** — INR, USD, JPY, and EUR — inspired by the Google Currency Converter UI.
 
@@ -180,11 +179,42 @@ Click ▶ Run
 
 ## 📸 App Screenshots
 
-> _Screenshots will be added here_
+---
 
-| Currency Converter | Media Player | Sensor App | Photo Gallery |
-|---|---|---|---|
-| 🖼️ | 🖼️ | 🖼️ | 🖼️ |
+### 💱 Currency Converter
+<div align="center">
+  <img src="screenshots/screenshot_currency.png" width="260" alt="Currency Converter"/>
+</div>
+
+---
+
+### 🎬 Media Player
+<div align="center">
+  <img src="screenshots/screenshot_media_player.png" width="260" alt="Media Player"/>
+</div>
+
+---
+
+### 📡 Sensor Dashboard
+<div align="center">
+  <img src="screenshots/screenshot_sensor.png" width="260" alt="Sensor Dashboard"/>
+</div>
+
+---
+
+### 🖼️ Photo Gallery — All Screens
+
+<div align="center">
+
+| Home Screen | Choose Folder | Gallery Grid |
+|:-----------:|:-------------:|:------------:|
+| <img src="screenshots/screenshot_gallery_home.jpeg" width="200" alt="Gallery Home"/> | <img src="screenshots/screenshot_gallery_folder.jpeg" width="200" alt="Folder Picker"/> | <img src="screenshots/screenshot_gallery_grid.jpeg" width="200" alt="Gallery Grid"/> |
+
+| Image Details | | |
+|:-------------:|---|---|
+| <img src="screenshots/screenshot_gallery_detail.jpeg" width="200" alt="Image Details"/> | | |
+
+</div>
 
 ---
 
