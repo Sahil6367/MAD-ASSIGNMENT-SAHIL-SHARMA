@@ -201,7 +201,9 @@ Click ▶ Run
 
 ### 📡 Sensor Dashboard
 <div align="center">
-  <img src="screenshots/screenshot_sensor.png" width="260" alt="Sensor Dashboard"/>
+  <img src="SensorApp/Screenshot_20260408_203527.png" width="260" alt="Sensor Dashboard"/>
+  <img src="SensorApp/Screenshot_20260408_203527.png" width="260" alt="Sensor Dashboard"/>
+ 
 </div>
 
 ---
