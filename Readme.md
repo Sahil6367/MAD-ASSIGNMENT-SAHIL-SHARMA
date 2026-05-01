@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![LICENSE](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
 
